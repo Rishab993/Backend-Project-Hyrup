@@ -41,7 +41,7 @@ No manual setup required.
 
 
 
-# SECTION 6 — Design Decisions
+## SECTION 6 — Design Decisions
 
 1.Used JWT for authentication
 
