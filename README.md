@@ -18,25 +18,27 @@ File: students.db
 No manual setup required.
 
 
-# SECTION 4 — API Endpoint Documentation
+## SECTION 4 — API Endpoint Documentation
 
--POST /api/v1/auth/register
--POST /api/v1/auth/login
--POST /api/v1/students
--GET  /api/v1/students
+- POST /api/v1/auth/register
+- POST /api/v1/auth/login
+- POST /api/v1/students
+- GET /api/v1/students
 
 
-# SECTION 5 — Student Model Explanation
 
-name – student full name
-email – student email
-course – enrolled course
-year – academic year
-gpa – performance score
-phone – contact number
-attendance_percentage – attendance tracking
-address – residential address
-emergency_contact – guardian phone
+## SECTION 5 — Student Model Explanation
+
+- name – student full name  
+- email – student email  
+- course – enrolled course  
+- year – academic year  
+- gpa – performance score  
+- phone – contact number  
+- attendance_percentage – attendance tracking  
+- address – residential address  
+- emergency_contact – guardian phone  
+
 
 
 # SECTION 6 — Design Decisions
