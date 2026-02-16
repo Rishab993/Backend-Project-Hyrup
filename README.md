@@ -20,10 +20,10 @@ No manual setup required.
 
 # SECTION 4 — API Endpoint Documentation
 
-POST /api/v1/auth/register
-POST /api/v1/auth/login
-POST /api/v1/students
-GET  /api/v1/students
+-POST /api/v1/auth/register
+-POST /api/v1/auth/login
+-POST /api/v1/students
+-GET  /api/v1/students
 
 
 # SECTION 5 — Student Model Explanation
