@@ -1,4 +1,4 @@
-# SECTION 1 — Project Setup Instructions
+## SECTION 1 — Project Setup Instructions
 
 1. Clone the repo
 2. Install dependencies:
@@ -8,10 +8,10 @@
 4. Open:
    http://127.0.0.1:8000/docs
 
-# SECTION 2 — Environment Variables
+## SECTION 2 — Environment Variables
 secret key = secret123
 
-# SECTION 3 — Database Setup
+## SECTION 3 — Database Setup
 
 Database is auto-created when server runs.
 File: students.db
