@@ -32,8 +32,11 @@ No manual setup required.
 - name – student full name  
 - email – student email  
 - course – enrolled course  
-- year – academic year  
-- gpa – performance score  
+- year – academic year
+- semester - current semester
+- enrollment_date - date of enrollment
+- gpa – performance score
+- status - dropped out/active
 - phone – contact number  
 - attendance_percentage – attendance tracking  
 - address – residential address  
